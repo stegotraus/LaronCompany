@@ -1,0 +1,20 @@
+
+
+#radioContact{
+    text-align: center;
+}
+
+.zoom{
+    transition: transform .2s;
+    width: auto;
+    margin: 0 auto;
+}
+
+.zoom:hover{
+    transform: scale(1.05);
+}
+
+
+#logo2OnPage{
+    width: 12%;
+}
